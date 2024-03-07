@@ -15,12 +15,13 @@ background-color: black;
     justify-content: center;
 }
 .favicon{
-    background-color: aqua;
+    background-color: #0dcaf0;
+    height: 20px;
 }
 
 
 footer{
-    background-color: aqua;
+    background-color: #0dcaf0;
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
