@@ -1,0 +1,29 @@
+*{
+    font-family: "Roboto", sans-serif;
+    color: white;
+}
+
+#body-sections{
+background-color: black;
+}
+
+
+.about-us{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+}
+.favicon{
+    background-color: aqua;
+}
+
+
+footer{
+    background-color: aqua;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    color: white;
+}
+
