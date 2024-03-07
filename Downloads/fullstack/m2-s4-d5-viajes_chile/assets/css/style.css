@@ -1,30 +1,38 @@
-*{
+* {
     font-family: "Roboto", sans-serif;
     color: white;
 }
 
-#body-sections{
-background-color: black;
+#body-sections {
+    background-color: black;
+}
+
+#body-sections h4 {
+    font-weight: 300;
+}
+
+#body-sections p {
+    font-weight: 100;
 }
 
 
-.about-us{
+.about-us {
     display: flex;
     flex-direction: column;
     text-align: center;
     justify-content: center;
 }
-.favicon{
+
+.favicon {
     background-color: #0dcaf0;
-    height: 20px;
+    height: 25px;
 }
 
 
-footer{
+footer {
     background-color: #0dcaf0;
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
     color: white;
 }
-
